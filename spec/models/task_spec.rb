@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe Task do
+RSpec.describe Task, type: :model do
   describe "initialization" do
     let(:task) { Task.new }
 
