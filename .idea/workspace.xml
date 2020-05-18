@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63b054f9-b1bc-40b9-87b5-62199f096e00" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/models/concerns/sizeable.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/shared/size_group.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/support/size_matcher.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/project.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/project.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/task.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/task.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/projects/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/projects/index.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spec/models/project_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/models/project_spec.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/models/task_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/models/task_spec.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/rails_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/rails_helper.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/system/add_project_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/system/add_project_spec.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +145,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589563421538</updated>
       <workItem from="1589563423894" duration="6490000" />
-      <workItem from="1589811219081" duration="1410000" />
+      <workItem from="1589811219081" duration="2322000" />
     </task>
     <servers />
   </component>
