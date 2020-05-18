@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63b054f9-b1bc-40b9-87b5-62199f096e00" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spec/factories/projects.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/factories/tasks.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/support/factory_bot.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gatherer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gatherer.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/models/project_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/models/project_spec.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/system/add_project_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/system/add_project_spec.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/workflows/creates_project_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/workflows/creates_project_spec.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/controllers/projects_controller_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/controllers/projects_controller_spec.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/models/task_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/models/task_spec.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
